@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3sth3rN00n
+- 👋 Hi, I’m Queen Esther
 - 👀 I’m interested in bug hunting...
 - 🌱 I’m currently learning to be realistic
 - 💞️ I’m looking to collaborate on anything ethical hacking
