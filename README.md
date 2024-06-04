@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Queen Esther
-- 👀 I’m interested in bug hunting...
+- 👀 I love bug hunting...
 - 🌱 I’m currently learning to be realistic
 - 💞️ I’m looking to collaborate on anything ethical hacking, bug hunting, pentesting(Web/API)
 - 📫 How to reach me ... You already did, by visiting this page... but seriously, just use the linkedIn handle!
