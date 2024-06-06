@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Queen Esther
+- 👋 Hi, I’m Esther
 - 👀 I love bug hunting...
 - 🌱 I’m currently learning... to be realistic
 - 💞️ I’m looking to collaborate on anything ethical hacking, bug hunting, pentesting(Web/API)
